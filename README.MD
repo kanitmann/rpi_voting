@@ -7,4 +7,4 @@
 - Kanit Mann 19BCE2040
 - Rishabh Jain 19BCE0240
 - Tanmay Kumar 19BCE2146
-- Shaurya Singhal 19BCE2268
+- Shaurya Kohli 19BCE2268
